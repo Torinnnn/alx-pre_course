@@ -1,1 +1,1 @@
-git commit -m 'update'
+git pull origin master
